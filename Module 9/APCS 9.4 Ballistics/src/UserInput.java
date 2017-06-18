@@ -11,19 +11,12 @@ public class UserInput {
     Scanner input= new Scanner(System.in);
 
     //Angles
-    String angle1, angle2, angle3, angle4, angle5, angle6, angle7;
-
-    double  dAngle1, dAngle2, dAngle3, dAngle4, dAngle5, dAngle6, dAngle7;
 
     int limitAng;
 
     double[] angles;
 
     //Velocities
-
-    String vel1, vel2, vel3, vel4, vel5, vel6, vel7;
-
-    double dVel1, dVel2, dVel3, dVel4, dVel5, dVel6, dVel7;
 
     double[] velocities;
 
