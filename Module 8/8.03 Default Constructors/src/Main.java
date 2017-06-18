@@ -1,0 +1,16 @@
+/**
+ * Created by Aditya Pratap on 6/18/2017.
+ * <p>
+ * The purpose of this program is to
+ */
+public class Main{
+
+    public static void main(String[] args){
+
+        CarV3 object = new CarV3();
+        object.askQuestions();
+        object.printEverything();
+
+    }
+
+}
