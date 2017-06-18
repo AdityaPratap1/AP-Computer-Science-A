@@ -9,10 +9,6 @@ import java.util.Arrays;
  */
 public class BallisticsTester {
 
-   // static double[] degrees = new double[]{20, 25, 30, 35, 40, 45, 50};
-
-    //static double[] MPH = new double[]{20, 25, 30, 35, 40, 45, 50};
-
     static  double[] radians;
 
     static double[][] ranges;
