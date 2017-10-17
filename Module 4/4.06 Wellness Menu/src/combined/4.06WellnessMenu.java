@@ -1,27 +1,22 @@
+/**
+ * @author Aditya Pratap
+ * @Submission Date 3/22/2017
+ *
+ * @purpose - The purpose of this program is to provide the user with a variety of different options to choose from that deal
+ *             with fitness including bmi, bmr, food menu, and fitness plan. This allows the user to follow and check their
+ *             fitness plan and levels.
+ */
+
+
 import java.util.Scanner;
 
 import java.lang.Math;
 
 public class BMI extends BMR{
   
-  
   public static void method() {
-    
-  
-    
-  double heightMeters;
-  
-  double weightKilograms;
-  
-  double feet1;
-  
-  double inches1;
-  
-  double weight1;
-  
-  double height;
-  
-  double BodyMassIndex;
+
+  double heightMeters, weightKilograms, feet1, inches1, weight1, height, BodyMassIndex;
   
   String weight;
   
@@ -273,12 +268,6 @@ public class Main extends WellnessMenu{
   
   
 }
-
-
-
-
-
-
 
 
 /**

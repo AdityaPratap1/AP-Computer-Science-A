@@ -9,20 +9,8 @@ public class BMI extends BMR{
     
   
     
-  double heightMeters;
-  
-  double weightKilograms;
-  
-  double feet1;
-  
-  double inches1;
-  
-  double weight1;
-  
-  double height;
-  
-  double BodyMassIndex;
-  
+  double heightMeters, weightKilograms, feet1, inches1, weight1, height, BodyMassIndex;
+
   String weight;
   
   
@@ -33,8 +21,8 @@ public class BMI extends BMR{
   
     
     Scanner input = new Scanner(System.in);
-    
-     System.out.println("Enter you name (Last, First) : ");
+
+    System.out.println("Enter you name (Last, First) : ");
      
          String name = input.nextLine();
          

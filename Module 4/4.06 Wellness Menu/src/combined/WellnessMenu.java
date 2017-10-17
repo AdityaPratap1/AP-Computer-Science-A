@@ -39,11 +39,8 @@ public class WellnessMenu extends BMI
         
          BMI object = new BMI();
         
-        if(decision.equalsIgnoreCase("A") ) 
+        if(decision.equalsIgnoreCase("A") )
         {
-
-         
-          
           object.method();
   
          }
