@@ -1,8 +1,6 @@
 /**
  * the dispenser
- * 
- * @author Bijan Tajmir
- * 
+ * * @author Aditya Pratap *
  */
 public class Dispenser
 {
